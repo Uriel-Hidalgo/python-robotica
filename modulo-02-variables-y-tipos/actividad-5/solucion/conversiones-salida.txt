@@ -1,0 +1,4 @@
+texto_entero: 3 | tipo: <class 'str'>
+entero_convertido: 3 | tipo: <class 'int'>
+decimal_convertido: 3.5 | tipo: <class 'float'>
+texto_convertido: 42 | tipo: <class 'str'>
