@@ -1,0 +1,3 @@
+nombre_robot marcos <class 'str'>
+distancia veinte metros <class 'str'>
+encendido True <class 'bool'>
