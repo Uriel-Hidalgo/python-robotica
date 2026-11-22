@@ -1,6 +1,3 @@
-nombre = "mariconazo"
-
-nombre_convertido = bool(nombre)
-
-print("nombre", nombre, type(nombre))
-print("nombre_convertido", nombre_convertido, type(nombre_convertido))
+print ("Uriel Hidalgo Estévez")
+print ("wall-E")
+print ("Aprender a programar, sobretodo los conceptos básicos")

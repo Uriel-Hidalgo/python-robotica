@@ -1,0 +1,3 @@
+En el primer error el codio da error debido a un fallo en la linea "print()" del "nombre_robot". El error es un simple error de falta de atención, donde por equivocación se escribe "nombre" en vez de "nombre_robot".
+En el segundo error se logra leer todo el codio tal cual se ha demandado, pero "distancia" aparece y esta asigando como un "bool", cuando este debería ser un "str" como se demanda en el docuemnto de la actividad.
+En el tercer error el codigo no se ejecuta por un fallo en la primera línea de codigo, a la hora de asignar el valor a "nombre" se ha escrito marcos sin comillas, este debe escribirse correctamente entre comillas para que se ejecute bien el codigo.

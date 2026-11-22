@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "c:\Users\URIELHIDALGOESTÉVEZ\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\solucion\depuracion.py", line 5, in <module>
+    print("nombre", nombre, type(nombre))
+                    ^^^^^^
+NameError: name 'nombre' is not defined
+
+
+nombre_robot marcos <class 'str'>
+distancia True <class 'bool'>
+encendido True <class 'bool'>
+
+
+Traceback (most recent call last):
+  File "c:\Users\URIELHIDALGOESTÉVEZ\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\solucion\depuracion.py", line 1, in <module>
+    nombre_robot = marcos
+                   ^^^^^^
+NameError: name 'marcos' is not defined
